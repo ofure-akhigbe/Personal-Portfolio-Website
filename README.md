@@ -15,3 +15,9 @@ A simple portfolio webpage designed using HTML5 and CSS3
 # :mailbox: Contact
 
 If you want to contact me, you can reach me at the links below
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ofureiakhigbe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+&nbsp;&nbsp;<a href="mailto"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+
+
+
