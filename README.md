@@ -1,6 +1,6 @@
 # Personal-Portfolio-Website
 
-A simple portfolio webpage designed with HTML5 and CSS3
+A simple portfolio webpage designed using HTML5 and CSS3
 
 # :pencil2: Tech Stack
 
