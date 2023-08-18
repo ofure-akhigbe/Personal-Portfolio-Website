@@ -11,3 +11,7 @@ A simple portfolio webpage designed with HTML5 and CSS3
 
 ![Screenshot (14)](https://github.com/ofure-akhigbe/Personal-Portfolio-Website/assets/135144247/898933e8-32f6-4c55-bb9f-e95f1d849c58)
 ![Screenshot (19)](https://github.com/ofure-akhigbe/Personal-Portfolio-Website/assets/135144247/d96fe9dc-34ce-4b28-91d7-7289a15f1b17)
+
+# :mailbox: Contact
+
+If you want to contact me, you can reach me at the links below
